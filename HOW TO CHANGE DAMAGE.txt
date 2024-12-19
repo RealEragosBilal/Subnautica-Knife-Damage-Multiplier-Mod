@@ -1,0 +1,4 @@
+HOW TO CHANGE DAMAGE
+
+
+After you installed the mod and started Subnautica. Go into youre Game Files and then to "BepInEx\config" and search for "com.Eragos.SubnauticaKnifeMod.cfg" and change the "Default value" thats the damage "Acceptable value range" is the Allowed Value Range! YOU CANNOT GO ABOVE THAT OR YOURE GONNA BREAK THE MOD
